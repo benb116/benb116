@@ -1,6 +1,6 @@
 <h1>Hi! I'm Ben</h1>
 
-<p>I'm an Electromechanical Engineer looking to turn my software experience into a new career. I love building products that are useful, innovative, and fun!</p>
+<p>I'm a software engineer that loves building products that are useful, innovative, and fun!</p>
 <h2>Things I code with</h2>
 <p>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
